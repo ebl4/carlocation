@@ -1,0 +1,3 @@
+Normal:1:16Mar2009 (seg),17Mar2009,18Mar2009
+Premium:6:01Set2009,02Mar2009
+Normal:2:16Mar2009,17Mar2009
